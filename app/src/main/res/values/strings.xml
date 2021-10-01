@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="StoriesProgressView">
+        <attr name="progressCount" format="integer|reference" />
+    </declare-styleable>
+    <string name="app_name">VideoStoriesProgressBar</string>
+</resources>
